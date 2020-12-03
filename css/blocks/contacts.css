@@ -39,7 +39,7 @@
     position: absolute;
     width: 160px;
     height: 80px;
-    background: url("/img/dropdown.png") no-repeat;
+    background: url("./img/dropdown.png") no-repeat;
     top: 100%;
     left: 17%;
     display: none;

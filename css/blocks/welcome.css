@@ -7,7 +7,7 @@
     height: 100%;
     align-items: center;
     justify-content: center;
-    background:url("/img/flare.png") right 32% center no-repeat, url("/img/splash.jpg") center bottom/cover no-repeat;
+    background:url("./img/flare.png") right 32% center no-repeat, url("./img/splash.jpg") center bottom/cover no-repeat;
 }
 
 .central{
