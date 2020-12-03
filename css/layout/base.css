@@ -56,7 +56,7 @@ button{
 }
 
 .main-page-wrapper{
-    background: url("./img/lion-header.png") center top no-repeat, url("./img/lion-small.png") right bottom 239px no-repeat;
+    background: url("/lion-bank/img/lion-header.png") center top no-repeat, url("/lion-bank/img/lion-small.png") right bottom 239px no-repeat;
 }
 
 .section{
