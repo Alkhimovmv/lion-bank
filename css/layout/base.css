@@ -83,7 +83,7 @@ button{
     display: flex;
     flex-direction: column;
     padding-bottom: 25px;
-    background: #29282D url("./img/lion-small.png") right 40% top 35% no-repeat;
+    background: #29282D url("../../img/lion-small.png") right 40% top 35% no-repeat;
 }
 
 .top-line__container{
