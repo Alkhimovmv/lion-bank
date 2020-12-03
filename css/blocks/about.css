@@ -8,7 +8,7 @@
     height: 505px;
     border-radius: 4px;
     margin-top: 23px;
-    background: url("/lion-bank/img/chess.png") center center / cover no-repeat;
+    background: url("../../img/chess.png") center center / cover no-repeat;
     display: block;
 }
 
