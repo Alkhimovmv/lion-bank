@@ -1,0 +1,142 @@
+html, body{
+    height: 100%;
+}
+
+body {
+    font-family: 'Open Sans', Helvetica sans-serif;
+    background:#29282D;
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.42;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1140px;
+}
+
+a {
+    color: inherit;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+}
+
+ul li{
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6{
+    margin: 0;
+    font-weight: normal;
+}
+
+p{
+    margin-top: 0;
+    color: #818181;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+
+button{
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.main-page-wrapper{
+    background: url(/img/lion-header.png) center top no-repeat, url(/img/lion-small.png) right bottom 239px no-repeat;
+}
+
+.section{
+    margin-bottom: 129px;
+}
+
+.section__title{
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 51px;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    overflow: hidden;
+    min-width: 1200px;
+}
+
+.top-line{
+    min-height: 415px;
+    background: #202123;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 25px;
+    background: #29282D url("/img/lion-small.png") right 40% top 35% no-repeat;
+}
+
+.top-line__container{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.page-title{
+    font-size: 72px;
+    line-height: 1;
+    font-weight: bold;
+    margin-bottom: 22px;
+}
+
+.page-content{
+    background: #fff;
+    color: #303030;
+    padding: 30px 0 124px;
+}
+
+.title{
+    color: #202020;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.inner-section--bg-grey{
+    background: #f4f5f5;
+}
+
+.inner-section{
+    padding: 81px 0 26px;
+
+}
+
+.inner-section__title{
+    margin-bottom: 75px;
+}
+
+.avatar{
+    width: 140px;
+    height: 140px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.tag{
+    font-size: 13px;
+    color: #303030;
+    padding: 8px 18px;
+    border-radius: 50px;
+    background: #e6e6e6;
+    margin-right: 11px;
+}
